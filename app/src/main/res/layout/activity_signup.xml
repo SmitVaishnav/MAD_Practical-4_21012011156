@@ -42,13 +42,14 @@
                    <TextView
                        android:layout_width="0dp"
                        android:layout_height="wrap_content"
-                       android:layout_weight="0.3"
+                       android:layout_weight="0.5"
                        android:text="User Full Name">
 
                    </TextView>
                    <EditText
-                       android:layout_weight="0.3"
-                       android:layout_width="wrap_content"
+                       android:maxLines="1"
+                       android:layout_weight="0.5"
+                       android:layout_width="0dp"
                        android:layout_height="wrap_content">
 
                    </EditText>
@@ -61,13 +62,14 @@
                    <TextView
                        android:layout_width="0dp"
                        android:layout_height="wrap_content"
-                       android:layout_weight="0.3"
+                       android:layout_weight="0.5"
                        android:text="Phone Number">
 
                    </TextView>
                    <EditText
-                       android:layout_weight="0.3"
-                       android:layout_width="wrap_content"
+                       android:maxLines="1"
+                       android:layout_weight="0.5"
+                       android:layout_width="0dp"
                        android:layout_height="wrap_content">
 
                    </EditText>
@@ -80,13 +82,14 @@
                    <TextView
                        android:layout_width="0dp"
                        android:layout_height="wrap_content"
-                       android:layout_weight="0.3"
+                       android:layout_weight="0.5"
                        android:text="City">
 
                    </TextView>
                    <EditText
-                       android:layout_weight="0.3"
-                       android:layout_width="wrap_content"
+                       android:maxLines="1"
+                       android:layout_weight="0.5"
+                       android:layout_width="0dp"
                        android:layout_height="wrap_content">
 
                    </EditText>
@@ -99,13 +102,14 @@
                    <TextView
                        android:layout_width="0dp"
                        android:layout_height="wrap_content"
-                       android:layout_weight="0.3"
+                       android:layout_weight="0.5"
                        android:text="Email">
 
                    </TextView>
                    <EditText
-                       android:layout_weight="0.3"
-                       android:layout_width="wrap_content"
+                       android:maxLines="1"
+                       android:layout_weight="0.5"
+                       android:layout_width="0dp"
                        android:layout_height="wrap_content">
 
                    </EditText>
@@ -118,13 +122,14 @@
                    <TextView
                        android:layout_width="0dp"
                        android:layout_height="wrap_content"
-                       android:layout_weight="0.3"
+                       android:layout_weight="0.5"
                        android:text="Password">
 
                    </TextView>
                    <EditText
-                       android:layout_weight="0.3"
-                       android:layout_width="wrap_content"
+                       android:maxLines="1"
+                       android:layout_weight="0.5"
+                       android:layout_width="0dp"
                        android:layout_height="wrap_content">
 
                    </EditText>
@@ -137,13 +142,14 @@
                    <TextView
                        android:layout_width="0dp"
                        android:layout_height="wrap_content"
-                       android:layout_weight="0.3"
+                       android:layout_weight="0.5"
                        android:text="Confirm Password">
 
                    </TextView>
                    <EditText
-                       android:layout_weight="0.3"
-                       android:layout_width="wrap_content"
+                       android:maxLines="1"
+                       android:layout_weight="0.5"
+                       android:layout_width="0dp"
                        android:layout_height="wrap_content">
 
                    </EditText>
